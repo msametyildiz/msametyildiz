@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Samet Yıldız</h1>
+<h3 align="center">A passionate full-stack developer from Turkey</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msametyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="msametyildiz" /> </p>
