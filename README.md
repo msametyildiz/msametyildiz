@@ -1,7 +1,7 @@
-![MasterHead](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+<img align="center" alt="Coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0f80ca43716229.57fa491f3f92e.gif">
 <h1 align="center">Hi 👋, I'm Muhammed Samet Yıldız</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msametyildiz&label=Profile%20views&color=0e75b6&style=flat" alt="msametyildiz" /> </p>
 
