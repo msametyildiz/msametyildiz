@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Dart, Flutter, Java, C, MySQL, HTML, CSS**
+- 🔭 I’m currently working on **Dart, Flutter, Java, C, Python, Pandas, Numpay**
 
-- 💬 Ask me about **Dart, HTML, CSS, PHP**
+- 💬 Ask me about **Dart, HTML, CSS, PHP , MySQL**
 
 - 📫 How to reach me **muhammedsamet.yildiz.06@gmail.com**
 
