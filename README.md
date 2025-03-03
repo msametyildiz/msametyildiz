@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
-
-- 💬 Ask me about **Dart, HTML, CSS, PHP , MySQL**
+- 🔭 I’m currently working on **Python | ROS**
 
 - 📫 How to reach me **muhammedsamet.yildiz.06@gmail.com**
 
